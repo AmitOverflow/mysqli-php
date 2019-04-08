@@ -1,3 +1,3 @@
 # mysqli-php
 
-Manipulating Database using MySQLi.
+<b>Manipulating Database using MySQLi.</b>
